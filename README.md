@@ -1,4 +1,4 @@
-# paroller.js  
+# paroller.js - 사용 템플릿
 [![npm](https://img.shields.io/npm/v/paroller.js.svg)](https://www.npmjs.com/package/paroller.js)    
 A lightweight jQuery plugin that enables parallax scrolling effect  
  - You can use it on elements with background property or on any other element  
